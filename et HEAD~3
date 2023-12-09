@@ -1,0 +1,55 @@
+[33mcommit 521b94a83133f2738d37fd45f533ccda0f4c4d06[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: e48e087 ba77120
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Sat Dec 9 20:46:50 2023 +0200
+
+    Merge branch 'master' of github.com:hfzhart/LethalMods
+
+[33mcommit ba77120a57d312a8e85e35964bd68db6eb3b7539[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: hfzhart <115654283+hfzhart@users.noreply.github.com>
+Date:   Sat Dec 9 20:46:37 2023 +0200
+
+    Update .gitignore
+
+[33mcommit e48e08796491c54ae3876017ec93cd99ad6591b0[m
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Sat Dec 9 20:37:35 2023 +0200
+
+    new mods
+
+[33mcommit d026d78b457b67585fd7f39d9d8c119e85865c1b[m
+Merge: f5223a4 a325951
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Sat Dec 9 20:04:02 2023 +0200
+
+    Merge branch 'master' of github.com:hfzhart/LethalMods
+
+[33mcommit f5223a476488026f82b42d8e27e2fff8fcf33fcf[m
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Sat Dec 9 20:03:30 2023 +0200
+
+    new mods
+
+[33mcommit a325951d713ab68bc3769a68778c7896ad424f10[m
+Author: hfzhart <115654283+hfzhart@users.noreply.github.com>
+Date:   Thu Nov 23 19:44:11 2023 +0200
+
+    Create test
+
+[33mcommit 0820f345b3fc66fe2baa19e449e23aca2f62c89d[m
+Author: hfzhart <115654283+hfzhart@users.noreply.github.com>
+Date:   Thu Nov 23 19:42:58 2023 +0200
+
+    Create README.md
+
+[33mcommit eccc960494545d961da7fc3ed9d0d03d5f7f1a14[m
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Thu Nov 23 03:45:07 2023 +0200
+
+    add-mods
+
+[33mcommit 55315f4006c622165b988b31082c2ef537baabe4[m
+Author: hfzhart <zmykalo.denys@student.uzhnu.edu.ua>
+Date:   Thu Nov 23 03:44:26 2023 +0200
+
+    add gitignore
